@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.2)
+  - BaseJson4 (1.04)
+
+DEPENDENCIES:
+  - Alamofire
+  - BaseJson4
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BaseJson4
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  BaseJson4: f4e23096f4e65e5461b93a9c240db4be5a2d329c
+
+PODFILE CHECKSUM: b2d0478d69c018649646fd7cea535d772dff26e1
+
+COCOAPODS: 1.5.2
